@@ -1,0 +1,16 @@
+{
+  "Envelope": {
+    "Header": "",
+    "Body": {
+      "getDestinationCountries": {
+        "countryIdSource": "?",
+        "serviceType": "?",
+        "serviceCenterBranchCode": "?",
+        "GUID": "?",
+        "aCorrespondentId": "?",
+        "aUserId": "?",
+        "aPassword": "?"
+      }
+    }
+  }
+}
